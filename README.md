@@ -2,6 +2,8 @@
 
 A Python script for automated backup of MikroTik routers, creating both binary (.backup) and plaintext configuration (.rsc) backups with automatic cleanup of old backup files.
 
+Most of this was generated with AI, but has been reviewed and tested for accuracy.  I'm using it to backup my local MikroTik routers.  Haven't run long enough test backup clean-up.  I wanted to have it stagger some of the removal so as to keep something out there for 1 a month, then 1 a year, etc.  But figured to just manually copy out a back-up to save for posterity now and then.
+
 ## Features
 
 - Creates both binary and plaintext configuration backups
